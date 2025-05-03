@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">login page</string>
+    <string name="Email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="remember">Remember</string>
+    <string name="happylogin">__Happy Login__</string>
+    <string name="like">LIke</string>
+    <string name="nicework">nice work</string>
+    <string name="submit">Submit</string>
+</resources>
